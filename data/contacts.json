@@ -1,0 +1,17 @@
+{
+    "deans_office": {
+        "phone": "+7 (351) 267-91-15",
+        "location": {
+            "building": "ЮУрГУ, главный корпус",
+            "room": "ауд. 702"
+        },
+        "employee": {
+            "first_name": "Наталья Викторовна",
+            "last_name": "Варганова",
+            "position": "Специалист по учебно-методической работе",
+            "email": "varganovanv@susu.ru"
+        }
+    },
+    
+    # INSERT ANOTHER DATA
+}

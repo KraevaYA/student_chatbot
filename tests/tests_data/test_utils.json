@@ -1,0 +1,9 @@
+[
+    {
+        "command": # INSERT COMMAND,
+        "input": [# INSERT PARAMETER/S],
+        "expected_output": # INSERT EXPECTED OUTPUT
+    },
+    
+    # INSERT ANOTHER TESTS
+]

@@ -1,0 +1,16 @@
+{
+    "Kraeva": {
+        "first_name": "Яна Александровна",
+        "last_name": "Краева",
+        "position": "доцентs центра ВиртУм",
+        "academic_degree": "к.физ.-мат.н.",
+        "email": "kraevaya@susu.ru",
+        "science_ids": {
+            "Scopus": "57205379857",
+            "Elibrary": "1010968",
+            "ORCID": "0009-0001-3021-6158"
+        }
+    },
+    
+    # INSERT ANOTHER DATA
+}
