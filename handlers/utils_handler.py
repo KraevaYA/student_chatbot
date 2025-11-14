@@ -6,6 +6,8 @@ from utils import *
 
 def generate_start_response(username: str, botname: str) -> str:
 
+    response = ""
+    
     # INSERT YOUR CODE
     
     return response
@@ -13,12 +15,16 @@ def generate_start_response(username: str, botname: str) -> str:
 
 def generate_help_response(botname: str) -> str:
 
+    response = ""
+    
     # INSERT YOUR CODE
                 
     return response
 
 
 def generate_about_response(botname: str) -> str:
+    
+    response = ""
 
     # INSERT YOUR CODE
                 
@@ -27,6 +33,8 @@ def generate_about_response(botname: str) -> str:
 
 def generate_unknown_command_response(command: str) -> str:
 
+    response = ""
+    
     # INSERT YOUR CODE
     
     return response
